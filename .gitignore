@@ -3,4 +3,4 @@ terraform.tfstate
 terraform.tfstate.backup
 *.zip
 HOMEWORK_Terraform/
-   
+.terraform.lock.hcl   
