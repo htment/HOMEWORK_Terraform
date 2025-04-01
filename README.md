@@ -15,7 +15,8 @@ for linux: cp terraformrc ~/.terraformrc
 <!-- 2. Повторите демо из лекции! -->
 
 
-**ОТВЕТ*** 
+**ОТВЕТ**
+ 
 Установлен terraform по инструкции и запоущены 2 контейнера
 ![screen_TERRAFORM](https://github.com/htment/HOMEWORK_Terraform/blob/main/img/teraform_apply.png)
 -------------------------
