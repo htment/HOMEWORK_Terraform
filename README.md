@@ -17,4 +17,4 @@ for linux: cp terraformrc ~/.terraformrc
 
 ![screen_TERRAFORM](https://github.com/htment/HOMEWORK_Terraform/blob/main/img/teraform_apply.png)
 -------------------------
-![screen_TERRAFORM2](https://github.com/htment/HOMEWORK_Terraform/blob/main/img/teraform_apply2.png)
+![screen_TERRAFORM2](https://github.com/htment/HOMEWORK_Terraform/blob/main/img/terraform_apply2.png)
