@@ -1,6 +1,6 @@
-   .terraform/
-   terraform.tfstate
-   terraform.tfstate.backup
-   *.zip
-   HOMEWORK_Terraform/
+.terraform/
+terraform.tfstate
+terraform.tfstate.backup
+*.zip
+HOMEWORK_Terraform/
    
