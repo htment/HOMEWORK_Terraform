@@ -13,3 +13,7 @@ for linux: cp terraformrc ~/.terraformrc
 В связи с недоступностью ресурсов для загрузки Terraform на территории РФ, вы можете использовать зеркало из репозитория по [ссылке](https://github.com/netology-code/devops-materials).
 
 <!-- 2. Повторите демо из лекции! -->
+
+
+![screen_TERRAFORM] (https://github.com/htment/HOMEWORK_Terraform/blob/main/img/teraform_apply.png)
+![screen_TERRAFORM2] (https://github.com/htment/HOMEWORK_Terraform/blob/main/img/teraform_apply2.png)
