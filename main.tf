@@ -14,7 +14,7 @@ resource "docker_image" "wordpress" {
 
 resource "docker_container" "nginx" {
   image = docker_image.nginx.image_id
-  name  = "our-cool-project-${var.containers.nginx.name}" #interpolation
+  name  = "Hohlenkov-${var.containers.nginx.name}" #interpolation
 
   ports {
     internal = var.containers.nginx.ports.internal
@@ -25,7 +25,7 @@ resource "docker_container" "nginx" {
 
 resource "docker_container" "wordpress" {
   image = docker_image.wordpress.image_id
-  name  = "our-cool-project-${var.containers.wordpress.name}" #interpolation
+  name  = "Hohlenkov-${var.containers.wordpress.name}" #interpolation
 
   ports {
     internal = var.containers.wordpress.ports.internal

@@ -6,7 +6,7 @@
 
 for linux: cp terraformrc ~/.terraformrc
 
-![Alt text](relative%201.jpg?raw=true "Title")
+
 ------------------------------------------------------------------------------------------------------------------------
 1. Установите Terraform на компьютерную систему (виртуальную или хостовую), используя лекцию или [инструкцию](https://learn.hashicorp.com/tutorials/terraform/install-cli).  download: https://releases.comcloud.xyz/terraform/ 
 
